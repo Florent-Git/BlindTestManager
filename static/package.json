@@ -1,0 +1,19 @@
+{
+  "name": "blindtest",
+  "version": "1.0.0",
+  "description": "A blind test manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Florent-Git",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Florent-Git/BlindTestManager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Florent-Git/BlindTestManager/issues"
+  },
+  "homepage": "https://github.com/Florent-Git/BlindTestManager#readme"
+}
